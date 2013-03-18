@@ -9,7 +9,7 @@ template_patterns = [
 
 setup(
     name='django-ngrams',
-    version='0.1.2',
+    version='0.1.23',
     author='Michael McAuliffe',
     author_email='michael.e.mcauliffe@gmail.com',
     url='http://pypi.python.org/pypi/django-ngrams/',

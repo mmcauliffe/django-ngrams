@@ -31,3 +31,4 @@ def reset(request):
         form = ResetForm()
         return render(request,'ngrams/form.html',{'form':form})
 
+
